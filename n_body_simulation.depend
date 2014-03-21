@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1391953509 source:c:\users\haider\desktop\misc\parikshit\orbit_propogator\n_body_simulation\vec_ops.c
+	"vec_ops.h"
+	"math.h"
+	<stdio.h>
+
+1391030093 c:\users\haider\desktop\misc\parikshit\orbit_propogator\n_body_simulation\vec_ops.h
+	"data_structs.h"
+
+1391030627 c:\users\haider\desktop\misc\parikshit\orbit_propogator\n_body_simulation\data_structs.h
+
+1395399479 source:c:\users\haider\desktop\misc\parikshit\orbit_propogator\n_body_simulation\main.cpp
+	<iostream>
+	<cstdio>
+	"vec_ops.h"
+	<math.h>
+
